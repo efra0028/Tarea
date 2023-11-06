@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+
+.acerca ul {
+    list-style: none;
+    padding: 0;
+    text-align: right;
+}
+
+.acerca ul li {
+    display: inline;
+    padding: 0;
+}
+
+#logo {
+    color: #f4a261;
+    margin-right: 750px;
+    padding: 0;
+    font-size: 30px;
+
+}
+
+.acerca ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0 60px 0 0;
+
+}
+
+table tr td {
+    width: 100%;
+}
+
+#letra {
+    font-size: 100px;
+    color: rgb(192, 192, 205);
+}
